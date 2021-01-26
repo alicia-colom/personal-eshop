@@ -5,5 +5,6 @@ Proyecto personal de [Irene Rueda Vega](https://github.com/ireneruedavegat)  y [
 Seguid atentos para las actualizaciones.
 Esperamos que os guste.
 
-<img src="https://giphy.com/embed/31lPv5L3aIvTi" width="12%"/>
+<img src="https://media.giphy.com/media/31lPv5L3aIvTi/giphy.gif" width="50%"/>
+
 
