@@ -1,8 +1,7 @@
-import React from 'react';
-import '../stylesheets/App.scss';
+import React from "react";
 
 function App() {
-	return <div>Hola</div>;
+  return <div>Hola</div>;
 }
 
 export default App;
